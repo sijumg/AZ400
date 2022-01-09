@@ -18,5 +18,8 @@ https://www.skillpipe.com/#/bookshelf/books
 AcloudGuru 
 Course and Practice Exams
 
+Labs
+https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/
+
 WhizLab
 Practice Tests
